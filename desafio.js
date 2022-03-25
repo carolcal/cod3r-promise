@@ -1,13 +1,3 @@
-/*function exibirConteudo(_, conteudo) {
-    console.log(conteudo.toString())
-}
-
-new Promise(function (resolve) {
-    resolve(fs.readFile(caminho, exibirConteudo))
-})*/
-
-//-----------------------------------------------------
-
 const fs = require('fs')
 
 const path = require('path')
